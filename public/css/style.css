@@ -1,0 +1,66 @@
+
+html{
+    background-color: rgb(222, 227, 240);
+    width: 100%;
+    height: auto;
+}
+.section-frame-1{
+    width: 100%;
+ 
+}
+.container-frame-1{
+    width: 100%;
+    height: auto;    
+    background: rgba(237, 208, 181, 0.56);
+    border-radius: 20px;
+}
+.title{
+color: rgb(49, 50, 51);
+}
+.button-request{
+    transition: all 0.5s;
+    cursor: pointer;
+    width: 296px;
+    height: 66px;
+    margin-left: 50px;
+    left: 10px;
+    top: 350px;
+    background: rgba(194, 94, 0, 0.877);
+    border-radius: 37px;
+    color: cornsilk;
+    font-size: medium;
+    border-color: rgba(226, 117, 28, 0.66);
+}
+
+.button-request:hover{
+    -webkit-filter: drop-shadow(15px 10px 5px rgba(226, 117, 28, 0.66));
+    filter: drop-shadow(15px 10px 5px rgba(226, 117, 28, 0.66));
+}
+.container-form{
+
+    width: 100%;
+    height: auto;
+    
+}
+.section-frame-2{
+    width: 100%;
+ 
+}
+
+.container-frame-2{
+    width: 100%;
+    height: auto;    
+    background: rgba(237, 208, 181, 0.56);
+    border-radius: 20px;
+}
+
+
+.section-form{
+width: 40%;
+height: 400px;
+margin-top: 250px;
+margin-left: 25%;
+background: rgba(255, 255, 255, 0.86);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 52px;
+}
